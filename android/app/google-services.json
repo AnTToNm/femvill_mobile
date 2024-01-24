@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348182109502",
+    "project_id": "ferm-5d68d",
+    "storage_bucket": "ferm-5d68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348182109502:android:84be402760b410fc0fa06f",
+        "android_client_info": {
+          "package_name": "com.example.fermvill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwRlA6tk4WRsb-dXZjyqP8_Tmtg3y7Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
